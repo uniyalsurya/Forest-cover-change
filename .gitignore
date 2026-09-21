@@ -1,0 +1,13 @@
+venv/
+__pycache__/
+*.pyc
+.env
+
+data/uploads/
+data/outputs/
+
+# Python virtual environment
+server/venv/
+
+# Sentinel satellite data - too large for GitHub
+server/data/**/*.jp2
